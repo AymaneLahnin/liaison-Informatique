@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Gestion de pesage:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Gestion_de_pesage_jar</output-path>
+    <root id="archive" name="Gestion de pesage.jar">
+      <element id="module-output" name="Gestion de pesage" />
+      <element id="extracted-dir" path="A:/Program Files/Java/jdk-19/rs2xml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="A:/Program Files/Java/jdk-19/bin/jcalendar-1.4/lib/jcalendar-1.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/pictures" />
+    </root>
+  </artifact>
+</component>
